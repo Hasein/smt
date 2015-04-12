@@ -1,0 +1,2 @@
+# smt
+statisticall translation machine
